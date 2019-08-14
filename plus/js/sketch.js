@@ -186,11 +186,11 @@ function draw(){
   // }
 
   if(!isStarted){
-    image(video, 0, 0, width, height);
-    fill(0);
-    textSize(32);
-    textAlign(CENTER);
-    text(noseScore, 400, height/2);
+    // image(video, 0, 0, width, height);
+    // fill(0);
+    // textSize(32);
+    // textAlign(CENTER);
+    // text(noseScore, 400, height/2);
   } else {
 
     if(isGameOver){
