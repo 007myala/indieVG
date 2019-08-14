@@ -1,0 +1,31 @@
+canvas {
+  border : 5px solid #252729;
+}
+
+body {
+  background-color: #1E1F21;
+}
+
+.pressStart2P {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.openSans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: #E3E4E4;
+}
+
+h6 {
+  color: #CC0000;
+}
+
+p {
+  color: #E3E4E4;
+}
+
+.mIcon {
+  width: 15px;
+}
